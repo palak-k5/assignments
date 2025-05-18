@@ -1,0 +1,1 @@
+      totals[category].totalSpent += price;
