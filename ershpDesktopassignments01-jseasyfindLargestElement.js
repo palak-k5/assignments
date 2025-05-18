@@ -1,0 +1,279 @@
+[33mcommit 804a5646fd10efa348a0996833387a343be4d71e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: PALAK KUMRAWAT <palakkumrawat05@gmail.com>
+Date:   Sun May 18 16:56:08 2025 +0530
+
+    expenditure-analysis-solution-by-palak
+
+[33mcommit 39aed81193cba2a19f671c41d49ec9ddddaffa5a[m
+Author: PALAK KUMRAWAT <palakkumrawat05@gmail.com>
+Date:   Sun May 18 16:15:54 2025 +0530
+
+    palaks_anagramsolution
+
+[33mcommit b0505ddb8c974d7e5be8d00357ace472cbf5475f[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Merge: 7d540ae 2bbdd5d
+Author: Kirat <harkirat96@gmail.com>
+Date:   Mon Mar 11 23:18:27 2024 +0530
+
+    Merge pull request #881 from tarunclub/master
+    
+    week-11 solution
+
+[33mcommit 2bbdd5d4313dcf0927e25394a6d0b78d831b542c[m
+Author: tarunclub <tarunkm__@outlook.com>
+Date:   Mon Mar 11 22:40:55 2024 +0530
+
+    week-11 solution
+
+[33mcommit 7d540ae63f5ad61e33ac9ac0cda090f4caca12cb[m
+Merge: 596afec 9e9806c
+Author: Kirat <harkirat96@gmail.com>
+Date:   Fri Mar 8 01:28:12 2024 +0530
+
+    Merge pull request #877 from sidxh/master
+    
+    week 14 assignment updated
+
+[33mcommit 9e9806c0ae9a3a93592ff3e1353d545feae3718b[m
+Author: sidxh <totallysiddhant@gmail.com>
+Date:   Fri Mar 8 00:29:41 2024 +0530
+
+    fixed file name typos
+
+[33mcommit 0e9f0d8c3741fd1f545bce648a4ba793ebcb9945[m
+Author: sidxh <totallysiddhant@gmail.com>
+Date:   Fri Mar 8 00:23:16 2024 +0530
+
+    week 14 assignment updated
+
+[33mcommit 596afec14f899df14ab8a29c7020b1cd282414b2[m
+Merge: 364f8fc 4429657
+Author: Kirat <harkirat96@gmail.com>
+Date:   Mon Mar 4 11:59:37 2024 +0530
+
+    Merge pull request #866 from Sainith123/week-12
+    
+    week 12
+
+[33mcommit 44296572df43f4cc4d96998f8af1cb11dd5ded17[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Mar 3 18:09:05 2024 +0530
+
+    week10 re-added
+
+[33mcommit cbab01319fd91ef5258f0c6249419454e6368423[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Mar 3 08:56:08 2024 +0530
+
+    changes
+
+[33mcommit e05f0eab1ac3c9ea953fcb6f46b4076290c66e2b[m
+Merge: 6890480 3c97d10
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Mar 3 08:51:58 2024 +0530
+
+    Merge branch 'week-12' of https://github.com/Sainith123/assignments into week-12
+
+[33mcommit 6890480c1902d589ce35b84941474049a3795953[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Mar 3 08:49:29 2024 +0530
+
+    upd
+
+[33mcommit 3c97d107a51c9ee4acc985324e174cdb536356ca[m
+Merge: fb12329 364f8fc
+Author: Sainith123 <117243889+Sainith123@users.noreply.github.com>
+Date:   Sat Mar 2 22:01:58 2024 +0530
+
+    Merge branch '100xdevs-cohort-2:master' into week-12
+
+[33mcommit fb1232993c99d252ab52d0e99f89ca392f858820[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sat Mar 2 21:58:24 2024 +0530
+
+    Added Week 12 assignment on Relationships in Prisma
+
+[33mcommit 364f8fcff0a2e06f07b72828106c01826eec8e42[m
+Author: harkirat singh <harkiratsingh@harkirats-MacBook-Pro.local>
+Date:   Tue Feb 13 05:33:55 2024 +0530
+
+    Week 11
+
+[33mcommit 2f0644e7f096180fb55641d233098527daebf453[m
+Author: harkirat singh <harkiratsingh@harkirats-MBP.Libertel.lan>
+Date:   Tue Feb 6 00:15:40 2024 +0100
+
+    Updated readme
+
+[33mcommit 2807e70c85ca6746a5e0eed1870f9207de8d7edd[m
+Author: harkirat singh <harkiratsingh@harkirats-MBP.Libertel.lan>
+Date:   Tue Feb 6 00:13:03 2024 +0100
+
+    Added week 10 assignments
+
+[33mcommit 05eff6fe100c35e72d8d529347f3b3490e528b0b[m
+Author: harkirat singh <harkiratsingh@harkirats-MBP.Libertel.lan>
+Date:   Mon Feb 5 23:41:37 2024 +0100
+
+    Added assignment 1
+
+[33mcommit 12fe8e145924526f514d0f9d9d5c3308c7b7e40f[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Feb 4 20:55:48 2024 +0530
+
+    tests updated
+
+[33mcommit 139645a236a61893bfcf1c6d132391490ed68de7[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Feb 4 17:22:02 2024 +0530
+
+    update
+
+[33mcommit eeb748638f802cce0473f3cd226d4841675d5f2a[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Feb 4 17:13:58 2024 +0530
+
+    instructions added
+
+[33mcommit 62eca329cbbf02686a5d54a1af8063ddd46fce2a[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Feb 4 13:34:09 2024 +0530
+
+    readme change
+
+[33mcommit df18285ee1e554921f1ea637e2f4094c4e06b1b6[m
+Author: Sainith123 <yamsanisainith@gmail.com>
+Date:   Sun Feb 4 12:33:14 2024 +0530
+
+    week-10 assignments
+
+[33mcommit 081be9ec66420098381ce7ce9e4291ba35ec3658[m
+Author: Harkirat Singh <harkirat96@gmail.com>
+Date:   Sat Jan 13 06:44:29 2024 +0530
+
+    added solutions
+
+[33mcommit 60c15dc1a4dce8969b694348453e2cf8d3d5578e[m
+Author: Harkirat Singh <harkirat96@gmail.com>
+Date:   Sat Jan 13 05:57:34 2024 +0530
+
+    fixed imports
+
+[33mcommit fc7890a68a2e92ce9c052e88ae0007db2d2601b8[m
+Author: Harkirat Singh <harkirat96@gmail.com>
+Date:   Tue Jan 9 02:21:15 2024 +0530
+
+    Added assignments
+
+[33mcommit 0e7345cdcf2b15b8a6d5987238c27663b45589d0[m
+Merge: 7863f4c 553804f
+Author: Kirat <harkirat96@gmail.com>
+Date:   Fri Jan 5 22:28:53 2024 +0530
+
+    Merge pull request #659 from lokesh3097/week5-level1-solution
+    
+    Added: Image of the Card to built & its solution
+
+[33mcommit 553804f7b933ba1fca8d955cb18dfcd19643d3d6[m
+Author: Lokeshwar Reddy Jonnalagadda <10lokeshnani@gmail.com>
+Date:   Fri Jan 5 22:26:27 2024 +0530
+
+    Added solutions for the BusinessCard component
+
+[33mcommit 5a89188d2e6370facf750558e2ffd9e5802cd7ef[m
+Author: Lokeshwar Reddy Jonnalagadda <10lokeshnani@gmail.com>
+Date:   Fri Jan 5 22:26:05 2024 +0530
+
+    Added the Image of the Card to be built
+
+[33mcommit 7863f4cdbcdadd3f4d0e89fe576327de4cdbc9fd[m
+Merge: 44221a6 32a1dd7
+Author: Kirat <harkirat96@gmail.com>
+Date:   Fri Jan 5 00:12:19 2024 +0530
+
+    Merge pull request #656 from lokesh3097/week5-level1-assignments
+    
+    Added week5 level-1 assignments
+
+[33mcommit 32a1dd76f476a10b9bdf69d9050482408401a68d[m
+Author: Lokeshwar Reddy Jonnalagadda <10lokeshnani@gmail.com>
+Date:   Thu Jan 4 23:20:49 2024 +0530
+
+    Added week5 level-1 assignments
+
+[33mcommit 44221a6567c34bcb8321268b6c0180e2a2a48d63[m
+Author: Harkirat Singh <harkirat96@gmail.com>
+Date:   Wed Dec 27 20:37:54 2023 +0530
+
+    added partial solutions
+
+[33mcommit 6383be68f54ec9220b19b7821371c6548abdec10[m
+Author: Harkirat Singh <harkirat96@gmail.com>
+Date:   Wed Dec 27 19:36:40 2023 +0530
+
+    added sol 1
+
+[33mcommit c428b9699bf630c5f3d6b445655d9717a893fd4c[m
+Author: Harkirat Singh <harkirat96@gmail.com>
+Date:   Tue Dec 26 00:04:39 2023 +0530
+
+    React basics
+
+[33mcommit 74b79ea57863148e78ff16fc0d7636fcca63d189[m
+Author: Harkirat Singh <harkirat96@gmail.com>
+Date:   Mon Dec 25 17:28:16 2023 +0530
+
+    Added week 4
+
+[33mcommit 86bdc525b6a13a9b10f6a3babb28fcc538497275[m
+Merge: 089b1a4 4425d28
+Author: Kirat <harkirat96@gmail.com>
+Date:   Fri Dec 22 00:14:54 2023 -0800
+
+    Merge pull request #509 from me-imfhd/readme-signup-signin
+    
+    signin description fix
+
+[33mcommit 4425d28c1ed27fac3e0f3ae12d4dbfd29b5a941b[m
+Author: Fahad Ahmad <fahadahmad63862@gmail.com>
+Date:   Fri Dec 22 13:42:48 2023 +0530
+
+    signin description fix
+
+[33mcommit 089b1a4c85e9e993aba74f0740a44c4949ae8004[m
+Merge: 002500e a3b7d06
+Author: Kirat <harkirat96@gmail.com>
+Date:   Thu Dec 21 23:40:45 2023 -0800
+
+    Merge pull request #465 from siddanth-6365/week-3/tests-error
+    
+    ReferenceError: done is not defined
+
+[33mcommit 002500e3433fcc845522043b557fc7ce729fb57f[m
+Merge: 883c644 2f75c9e
+Author: Kirat <harkirat96@gmail.com>
+Date:   Thu Dec 21 03:48:53 2023 -0800
+
+    Merge pull request #449 from siinghd/extracleanv2
+    
+    FIX 03-mongo and 04-mongo
+
+[33mcommit 883c6447cac56f938c37fb7e71f70ab1886ec9a4[m
+Author: Harkirat Singh <harkirat96@gmail.com>
+Date:   Thu Dec 21 03:56:42 2023 +0530
+
+    added solutions to 1 and 2
+
+[33mcommit a3b7d06e6573f4d7557c3e4e39049352aa3adef6[m
+Author: siddanth-6365 <siddanth6365@gmail.com>
+Date:   Wed Dec 20 10:54:52 2023 +0530
+
+    added done in requestcount test file
+
+[33mcommit 2f75c9ef54ee2d3717d195ab1c8a021e49ae8d9c[m
+Author: Singh <h.singh8149@gmail.com>
+Date:   Tue Dec 19 17:07:26 2023 +0100
+
+    removed lint
+
+[33mcommit 3823c7f66a6e3ab08b6bc7d53c2de
