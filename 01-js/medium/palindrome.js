@@ -4,6 +4,13 @@
 */
 
 function isPalindrome(str) {
+  const strcheck=str.toLowerCase();
+  let i=0;
+  let j=str.length-1;
+  while(i<=j)
+  {
+    if(strcheck[i]!=strcheck[j])return false;
+  }
   return true;
 }
 
